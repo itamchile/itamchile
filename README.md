@@ -21,6 +21,7 @@ Visita el [Web Site 🌐](http://www.itam.cl/) de la empresa!
 
 | |
 | ------------- |
+|🧰 Soporte TI|
 |🧑‍💻 Administración Plataforma TI|
 |🛍️ Venta de Equipos Computacionales|
 |🔑 Licenciamiento de Software|
